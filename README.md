@@ -1,4 +1,4 @@
-# Edinaldo do Nascimento 
+# Edinaldo Teixeira
 
 Estou atualmente Cursando Sistema de Informação no 7 período.
 
