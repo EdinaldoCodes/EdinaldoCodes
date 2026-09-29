@@ -1,9 +1,9 @@
 # Edinaldo Teixeira
 
-Estou atualmente Cursando Sistema de Informação no 7 período.
+Bacharel em Sistemas de Informação, com experiência prática em desenvolvimento de software e aplicações web.
 
 #### 📬 Entre em contato:
-Estou aberto a oportunidades de estágio ou posições júnior.
+Estou Aberto a oportunidades na área de desenvolvimento de software.
 
 <div> 
   <a href = "nedinaldo47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
